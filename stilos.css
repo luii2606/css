@@ -1,0 +1,40 @@
+*{
+  margin: 0;
+  padding: 0;
+  /*box-sizing: border-box;*/
+  color: black;
+
+}
+
+#header {
+width:500 px ;
+height: 250 px;
+background-color: black;
+}
+hr{
+  color: blueviolet;
+}
+hr{
+  /*margin-top: 20 px;
+  margin-bottom: 20 px;
+  margin-left: 40 px;
+  margin-right: 40 px;*/
+  margin: 20px 30px 40px;
+
+}
+p > span{
+  color: brown;
+}
+.caja{
+width:500px ;
+height: 250px;
+background-color: blue;
+margin:80px;
+border: 10px solid;
+color:black;
+padding-top: 30px;
+padding-right: 50px;
+padding-bottom: 70px;
+padding-left: 60 px;
+;
+}

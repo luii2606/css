@@ -1,0 +1,64 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+  margin:0;
+  padding:0;
+   box-sizing: border-box;
+  color: black;
+}
+body{
+  background:#f2f2f2  ;
+  padding: 20px;
+  font-size: 18px;
+  font-family: "Bitter", serif;
+}
+h1{
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+h2{
+  text-align: right;
+}
+
+h1,h2{
+  color:cadetblue;
+}
+p.parrafo{
+  font-size:20px ;
+  color:cornflowerblue
+  fo
+
+}
+p{
+  font-size: 12px;
+  line-height: 2;
+
+}
+p.bold{
+  font-weight: bold;
+  font-size: 25px;
+
+}
+p.derecha{
+  text-align: right;
+  font-size: 20px;
+}
+a{
+font-size: 32px;
+color: #fff;
+background-color: brown;
+text-decoration:none;
+width: 200px;
+height: 100px;
+padding: 20px;
+text-transform: capitalize;
+display:block;
+margin:0 auto ;
+border-radius: 8px;
+width: 100px;
+place-content: center;
+text-align: center;
+border: dotted 12px #ff8401 ;
+box-shadow:20px 10px ;
+}
